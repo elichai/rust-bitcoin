@@ -35,7 +35,7 @@ version = "=0.3.2"
 
 [dependencies.secp256k1]
 version = "0.15"
-features = [ "std", "rand" ]
+features = [ "rand" ]
 
 [dev-dependencies]
 serde_derive = "1"
